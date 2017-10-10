@@ -35,17 +35,17 @@ una vez obtenido la invrsa del array inicial, multiplicamos por dos los números
 
 pero como empiezo a contar desde el 0 y lo condiciono a que es mayor que cero, trabajaré con la posición impar.
 
-   for (j = 0; 0 < j < cardNumber1.length; j + 2)
+  for (j = 0; 0 < j < cardNumber1.length; j + 2)
 
    var  cardNumber2=((j + 2) * 2);
 
 una vez multiplicado, procedo a sumar los elementos de la variable cardNumber2
-  var sum;
+   var sum;
 
 Se suman los numeros del do mientras se cumpla lo establecido en el while.
   do (sum = cardNumber1.slice(i) + cardNumber1.slice(i++));
 
-  while (0 <= i < 16);
+   while (0 <= i < 16);
 
 A la variable sum se le saca el modulo con 10 y se le introduce este resultado en una nueva variable llamada rest
 
@@ -57,7 +57,7 @@ Para saber si una tarjeta de crédito es válida, el módulo debe ser cero, es p
    
 si el residuo es cero, emitiremos un prompt con el mensaje "tarjeta de crédito válida"
     
-    prompt('tarjeta de credito valida')
+  prompt('tarjeta de credito valida')
  
   }
  
@@ -76,4 +76,4 @@ sino devolveremos un prompt con el sgte mensaje.
 
 ## DIAGRAMA DE FLUJO
 
-![Diagrama de Flujo](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=tarjeta%20de%20credito.html#Uhttps%3A%2F%2Fdrive.google.com%2Fa%2Faiesec.net%2Fuc%3Fid%3D0B-nj9n6hnRFebWlxZnpNck95djA%26export%3Ddownload "diagrama")
+![Diagrama de Flujo](https://drive.google.com/open?id=0B-nj9n6hnRFebWlxZnpNck95djA "diagrama")
