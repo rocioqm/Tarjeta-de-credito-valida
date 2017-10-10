@@ -76,5 +76,5 @@ sino devolveremos un prompt con el sgte mensaje.
 
 ## DIAGRAMA DE FLUJO
 
-![tarjeta de credito](https://user-images.githubusercontent.com/32307131/31391360-e7f62880-ad9b-11e7-93f7-d23f724af2d7.jpg)
+[Diagrama](http://subefotos.com/ver/?f1a66577b5c8a892f8a7a9a8aad7d1fco.jpg "titulo")
 
