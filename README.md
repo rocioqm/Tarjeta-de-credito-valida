@@ -76,4 +76,5 @@ sino devolveremos un prompt con el sgte mensaje.
 
 ## DIAGRAMA DE FLUJO
 
-![Diagrama de Flujo](https://drive.google.com/open?id=0B-nj9n6hnRFebWlxZnpNck95djA "diagrama")
+![tarjeta de credito](https://user-images.githubusercontent.com/32307131/31391360-e7f62880-ad9b-11e7-93f7-d23f724af2d7.jpg)
+
